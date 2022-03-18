@@ -1,5 +1,6 @@
-# sugardaddy-website
-### Website built by [Gethugothemes](https://github.com/gethugothemes/)
+# Sugar Daddy Website
 
 ## Purpose
-I developed the website for an educational purpose.
+I developed the website for educational purposes.
+## Theme By [Gethugothemes](https://github.com/gethugothemes/)
+Template written in Hugo, HTML, and CSS.

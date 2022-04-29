@@ -1,6 +1,6 @@
 # Sugar Daddy Website
 
 ## Purpose
-I developed this website for sk00l. <br>
+Developed this website for school purposes. <br>
 Template written in Hugo using HTML and CSS. <br>
 © Theme By [Gethugothemes](https://github.com/gethugothemes/)
